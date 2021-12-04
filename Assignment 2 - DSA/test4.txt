@@ -1,0 +1,8 @@
+INSERT x number false
+INSERT y string false
+BEGIN
+INSERT x number false
+BEGIN
+INSERT z string true
+END
+END

@@ -1,0 +1,2 @@
+INSERT kl0 ()->number true
+ASSIGN kl0 l2apnG
